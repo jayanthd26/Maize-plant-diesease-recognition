@@ -1,0 +1,832 @@
+﻿PLACE,Year,Season,Crop,Area,Production
+MYSORE,1997,Kharif     ,Arhar/Tur,7509,1812
+MYSORE,1997,Kharif     ,Bajra,365,161
+MYSORE,1997,Kharif     ,Black pepper,12,3
+MYSORE,1997,Kharif     ,Dry chillies,3097,768
+MYSORE,1997,Kharif     ,Dry ginger,62,80
+MYSORE,1997,Kharif     ,Groundnut,36156,36705
+MYSORE,1997,Kharif     ,Horse-gram,22413,11115
+MYSORE,1997,Kharif     ,Jowar,39698,35995
+MYSORE,1997,Kharif     ,Maize,20029,65080
+MYSORE,1997,Kharif     ,Paddy,105069,459876
+MYSORE,1997,Kharif     ,Ragi,90302,133034
+MYSORE,1997,Kharif     ,Rice,105069,306717
+MYSORE,1997,Rabi       ,Dry chillies,207,272
+MYSORE,1997,Rabi       ,Groundnut,1466,2153
+MYSORE,1997,Rabi       ,Horse-gram,36782,13069
+MYSORE,1997,Rabi       ,Jowar,1026,462
+MYSORE,1997,Rabi       ,Maize,1338,2712
+MYSORE,1997,Rabi       ,Paddy,817,2649
+MYSORE,1997,Rabi       ,Ragi,6089,7875
+MYSORE,1997,Rabi       ,Rice,817,1767
+MYSORE,1997,Rabi       ,Wheat,4,4
+MYSORE,1997,Summer     ,Jowar,490,1208
+MYSORE,1997,Summer     ,Maize,945,2045
+MYSORE,1997,Summer     ,Paddy,20560,85453
+MYSORE,1997,Summer     ,Ragi,4857,8407
+MYSORE,1997,Summer     ,Rice,20560,56994
+MYSORE,1997,Whole Year ,Arecanut,600,426
+MYSORE,1997,Whole Year ,Cardamom,16,1
+MYSORE,1997,Whole Year ,Coriander,870,86
+MYSORE,1997,Whole Year ,Garlic,98,201
+MYSORE,1997,Whole Year ,Sugarcane,19349,2058734
+MYSORE,1997,Whole Year ,Turmeric,2316,15147
+MYSORE,1998,Kharif     ,Arhar/Tur,6687,1957
+MYSORE,1998,Kharif     ,Bajra,6,3
+MYSORE,1998,Kharif     ,Castor seed,2476,1146
+MYSORE,1998,Kharif     ,Cotton(lint),59668,153042
+MYSORE,1998,Kharif     ,Dry ginger,140,1830
+MYSORE,1998,Kharif     ,Groundnut,10799,12051
+MYSORE,1998,Kharif     ,Horse-gram,25569,11611
+MYSORE,1998,Kharif     ,Jowar,15239,16502
+MYSORE,1998,Kharif     ,Maize,17459,74847
+MYSORE,1998,Kharif     ,Moong(Green Gram),2309,454
+MYSORE,1998,Kharif     ,Niger seed,2809,578
+MYSORE,1998,Kharif     ,Onion,12,54
+MYSORE,1998,Kharif     ,Peas & beans (Pulses),22,202
+MYSORE,1998,Kharif     ,Potato,28,309
+MYSORE,1998,Kharif     ,Ragi,71644,115488
+MYSORE,1998,Kharif     ,Rice,95399,291632
+MYSORE,1998,Kharif     ,Sesamum,6314,3593
+MYSORE,1998,Kharif     ,Soyabean,8,9
+MYSORE,1998,Kharif     ,Sunflower,1268,778
+MYSORE,1998,Rabi       ,Gram,923,213
+MYSORE,1998,Rabi       ,Groundnut,991,1098
+MYSORE,1998,Rabi       ,Horse-gram,24298,10110
+MYSORE,1998,Rabi       ,Jowar,1130,777
+MYSORE,1998,Rabi       ,Maize,109,215
+MYSORE,1998,Rabi       ,Moong(Green Gram),778,349
+MYSORE,1998,Rabi       ,Peas & beans (Pulses),17,168
+MYSORE,1998,Rabi       ,Ragi,10701,14587
+MYSORE,1998,Rabi       ,Rice,612,1336
+MYSORE,1998,Rabi       ,Sunflower,130,36
+MYSORE,1998,Summer     ,Jowar,1123,2979
+MYSORE,1998,Summer     ,Maize,34,77
+MYSORE,1998,Summer     ,Peas & beans (Pulses),121,1048
+MYSORE,1998,Summer     ,Ragi,1325,3085
+MYSORE,1998,Summer     ,Rice,13655,40058
+MYSORE,1998,Summer     ,Sunflower,5,3
+MYSORE,1998,Whole Year ,Arecanut,453,1589
+MYSORE,1998,Whole Year ,Black pepper,5,13
+MYSORE,1998,Whole Year ,Coconut ,11821,42095
+MYSORE,1998,Whole Year ,Coriander,639,63
+MYSORE,1998,Whole Year ,Dry chillies,2000,564
+MYSORE,1998,Whole Year ,Turmeric,331,1092
+MYSORE,1999,Kharif     ,Arhar/Tur,6465,3617
+MYSORE,1999,Kharif     ,Bajra,52,29
+MYSORE,1999,Kharif     ,Castor seed,2727,1583
+MYSORE,1999,Kharif     ,Cotton(lint),63107,154105
+MYSORE,1999,Kharif     ,Dry ginger,145,1893
+MYSORE,1999,Kharif     ,Groundnut,9189,5646
+MYSORE,1999,Kharif     ,Horse-gram,20126,18986
+MYSORE,1999,Kharif     ,Jowar,18560,20711
+MYSORE,1999,Kharif     ,Maize,13391,41903
+MYSORE,1999,Kharif     ,Moong(Green Gram),2237,774
+MYSORE,1999,Kharif     ,Niger seed,2897,597
+MYSORE,1999,Kharif     ,Other Kharif pulses,16684,8282
+MYSORE,1999,Kharif     ,Ragi,55044,59440
+MYSORE,1999,Kharif     ,Rice,91444,264324
+MYSORE,1999,Kharif     ,Sesamum,7462,2786
+MYSORE,1999,Kharif     ,Small millets,4,1
+MYSORE,1999,Kharif     ,Soyabean,16,15
+MYSORE,1999,Kharif     ,Sunflower,1713,615
+MYSORE,1999,Kharif     ,Urad,1846,600
+MYSORE,1999,Rabi       ,Gram,1335,694
+MYSORE,1999,Rabi       ,Groundnut,645,708
+MYSORE,1999,Rabi       ,Horse-gram,30071,15084
+MYSORE,1999,Rabi       ,Jowar,1081,744
+MYSORE,1999,Rabi       ,Maize,15,28
+MYSORE,1999,Rabi       ,Moong(Green Gram),1606,400
+MYSORE,1999,Rabi       ,Other  Rabi pulses,21565,2133
+MYSORE,1999,Rabi       ,Ragi,16415,18860
+MYSORE,1999,Rabi       ,Rapeseed &Mustard,7,2
+MYSORE,1999,Rabi       ,Rice,1687,3438
+MYSORE,1999,Rabi       ,Sunflower,320,102
+MYSORE,1999,Rabi       ,Urad,967,360
+MYSORE,1999,Summer     ,Jowar,186,427
+MYSORE,1999,Summer     ,Maize,10,15
+MYSORE,1999,Summer     ,Ragi,1442,2406
+MYSORE,1999,Summer     ,Rice,17520,47691
+MYSORE,1999,Whole Year ,Banana,976,20468
+MYSORE,1999,Whole Year ,Black pepper,16,41
+MYSORE,1999,Whole Year ,Coconut ,11281,40172
+MYSORE,1999,Whole Year ,Coriander,630,62
+MYSORE,1999,Whole Year ,Dry chillies,986,1100
+MYSORE,1999,Whole Year ,Onion,8,47
+MYSORE,1999,Whole Year ,Sugarcane,11118,1288576
+MYSORE,1999,Whole Year ,Tobacco,39824,18879
+MYSORE,1999,Whole Year ,Turmeric,572,1928
+MYSORE,2000,Kharif     ,Arhar/Tur,4911,1694
+MYSORE,2000,Kharif     ,Bajra,21,15
+MYSORE,2000,Kharif     ,Castor seed,2377,3837
+MYSORE,2000,Kharif     ,Cotton(lint),64715,130909
+MYSORE,2000,Kharif     ,Dry ginger,399,5210
+MYSORE,2000,Kharif     ,Groundnut,6818,6483
+MYSORE,2000,Kharif     ,Horse-gram,28851,21242
+MYSORE,2000,Kharif     ,Jowar,13556,11948
+MYSORE,2000,Kharif     ,Maize,21315,64028
+MYSORE,2000,Kharif     ,Moong(Green Gram),3085,1216
+MYSORE,2000,Kharif     ,Niger seed,3046,627
+MYSORE,2000,Kharif     ,Other Kharif pulses,21004,10433
+MYSORE,2000,Kharif     ,Ragi,63305,102662
+MYSORE,2000,Kharif     ,Rice,91522,275479
+MYSORE,2000,Kharif     ,Sesamum,5608,2621
+MYSORE,2000,Kharif     ,Soyabean,43,45
+MYSORE,2000,Kharif     ,Sunflower,823,251
+MYSORE,2000,Kharif     ,Urad,2645,1023
+MYSORE,2000,Rabi       ,Gram,1238,804
+MYSORE,2000,Rabi       ,Groundnut,486,534
+MYSORE,2000,Rabi       ,Horse-gram,20704,14398
+MYSORE,2000,Rabi       ,Jowar,1171,899
+MYSORE,2000,Rabi       ,Maize,282,555
+MYSORE,2000,Rabi       ,Moong(Green Gram),934,250
+MYSORE,2000,Rabi       ,Other  Rabi pulses,4857,511
+MYSORE,2000,Rabi       ,Ragi,9616,10852
+MYSORE,2000,Rabi       ,Rapeseed &Mustard,5,1
+MYSORE,2000,Rabi       ,Rice,1179,2356
+MYSORE,2000,Rabi       ,Sunflower,5,2
+MYSORE,2000,Rabi       ,Urad,776,271
+MYSORE,2000,Summer     ,Jowar,286,581
+MYSORE,2000,Summer     ,Maize,78,219
+MYSORE,2000,Summer     ,Ragi,1670,3311
+MYSORE,2000,Summer     ,Rice,16308,46416
+MYSORE,2000,Summer     ,Sunflower,34,24
+MYSORE,2000,Whole Year ,Arecanut,400,284
+MYSORE,2000,Whole Year ,Banana,1409,30423
+MYSORE,2000,Whole Year ,Black pepper,14,36
+MYSORE,2000,Whole Year ,Coconut ,12512,44556
+MYSORE,2000,Whole Year ,Coriander,15,1
+MYSORE,2000,Whole Year ,Dry chillies,1894,1838
+MYSORE,2000,Whole Year ,Onion,15,80
+MYSORE,2000,Whole Year ,Potato,30,282
+MYSORE,2000,Whole Year ,Sugarcane,8964,698296
+MYSORE,2000,Whole Year ,Tobacco,33375,17058
+MYSORE,2000,Whole Year ,Turmeric,827,2918
+MYSORE,2001,Kharif     ,Arhar/Tur,4394,2651
+MYSORE,2001,Kharif     ,Castor seed,2301,1091
+MYSORE,2001,Kharif     ,Cotton(lint),55918,76555
+MYSORE,2001,Kharif     ,Dry ginger,1320,17237
+MYSORE,2001,Kharif     ,Groundnut,7817,6958
+MYSORE,2001,Kharif     ,Horse-gram,35698,29538
+MYSORE,2001,Kharif     ,Jowar,13458,9029
+MYSORE,2001,Kharif     ,Maize,15251,65459
+MYSORE,2001,Kharif     ,Moong(Green Gram),3433,1790
+MYSORE,2001,Kharif     ,Niger seed,3277,675
+MYSORE,2001,Kharif     ,Other Kharif pulses,27408,13212
+MYSORE,2001,Kharif     ,Ragi,66135,109676
+MYSORE,2001,Kharif     ,Rice,102365,327885
+MYSORE,2001,Kharif     ,Sesamum,4926,3660
+MYSORE,2001,Kharif     ,Soyabean,67,56
+MYSORE,2001,Kharif     ,Sunflower,767,435
+MYSORE,2001,Kharif     ,Urad,5184,1916
+MYSORE,2001,Rabi       ,Gram,1857,1090
+MYSORE,2001,Rabi       ,Horse-gram,24566,10805
+MYSORE,2001,Rabi       ,Jowar,991,747
+MYSORE,2001,Rabi       ,Maize,654,1225
+MYSORE,2001,Rabi       ,Moong(Green Gram),1146,336
+MYSORE,2001,Rabi       ,Other  Rabi pulses,5350,580
+MYSORE,2001,Rabi       ,Ragi,12642,17457
+MYSORE,2001,Rabi       ,Rice,176,436
+MYSORE,2001,Rabi       ,Sunflower,15,5
+MYSORE,2001,Rabi       ,Urad,768,288
+MYSORE,2001,Summer     ,Maize,205,539
+MYSORE,2001,Summer     ,Ragi,756,1159
+MYSORE,2001,Summer     ,Rice,12254,33574
+MYSORE,2001,Whole Year ,Arecanut,798,566
+MYSORE,2001,Whole Year ,Black pepper,20,51
+MYSORE,2001,Whole Year ,Coconut ,18765,50122
+MYSORE,2001,Whole Year ,Coriander,217,21
+MYSORE,2001,Whole Year ,Dry chillies,1666,1573
+MYSORE,2001,Whole Year ,Onion,5,21
+MYSORE,2001,Whole Year ,Peas & beans (Pulses),148,763
+MYSORE,2001,Whole Year ,Potato,50,448
+MYSORE,2001,Whole Year ,Sugarcane,11009,983104
+MYSORE,2001,Whole Year ,Turmeric,691,2594
+MYSORE,2002,Kharif     ,Arhar/Tur,6267,2697
+MYSORE,2002,Kharif     ,Castor seed,3021,1289
+MYSORE,2002,Kharif     ,Cotton(lint),36105,31900
+MYSORE,2002,Kharif     ,Dry ginger,1105,14429
+MYSORE,2002,Kharif     ,Groundnut,6041,4563
+MYSORE,2002,Kharif     ,Horse-gram,19024,8603
+MYSORE,2002,Kharif     ,Jowar,10366,4464
+MYSORE,2002,Kharif     ,Maize,12935,28164
+MYSORE,2002,Kharif     ,Moong(Green Gram),4682,734
+MYSORE,2002,Kharif     ,Niger seed,4244,874
+MYSORE,2002,Kharif     ,Other Kharif pulses,21318,10156
+MYSORE,2002,Kharif     ,Ragi,47217,45080
+MYSORE,2002,Kharif     ,Rice,80233,217716
+MYSORE,2002,Kharif     ,Sesamum,5256,1947
+MYSORE,2002,Kharif     ,Sunflower,1896,730
+MYSORE,2002,Kharif     ,Urad,3569,556
+MYSORE,2002,Rabi       ,Gram,1239,545
+MYSORE,2002,Rabi       ,Groundnut,255,333
+MYSORE,2002,Rabi       ,Horse-gram,41160,9306
+MYSORE,2002,Rabi       ,Jowar,1474,1059
+MYSORE,2002,Rabi       ,Maize,5382,13379
+MYSORE,2002,Rabi       ,Moong(Green Gram),1566,274
+MYSORE,2002,Rabi       ,Other  Rabi pulses,9486,963
+MYSORE,2002,Rabi       ,Ragi,23032,19920
+MYSORE,2002,Rabi       ,Rice,627,1309
+MYSORE,2002,Rabi       ,Sunflower,260,92
+MYSORE,2002,Rabi       ,Urad,1941,229
+MYSORE,2002,Summer     ,Jowar,92,127
+MYSORE,2002,Summer     ,Maize,515,1316
+MYSORE,2002,Summer     ,Ragi,654,751
+MYSORE,2002,Summer     ,Rice,2487,6355
+MYSORE,2002,Summer     ,Sunflower,62,38
+MYSORE,2002,Whole Year ,Arcanut (Processed),679,482
+MYSORE,2002,Whole Year ,Atcanut (Raw),679,2382
+MYSORE,2002,Whole Year ,Banana,1579,32041
+MYSORE,2002,Whole Year ,Beans & Mutter(Vegetable),104,950
+MYSORE,2002,Whole Year ,Black pepper,124,317
+MYSORE,2002,Whole Year ,Brinjal,769,5377
+MYSORE,2002,Whole Year ,Cashewnut Processed,169,15
+MYSORE,2002,Whole Year ,Cashewnut Raw,169,59
+MYSORE,2002,Whole Year ,Citrus Fruit,2,35
+MYSORE,2002,Whole Year ,Coconut ,19801,52889
+MYSORE,2002,Whole Year ,Coriander,34,3
+MYSORE,2002,Whole Year ,Dry chillies,1484,1634
+MYSORE,2002,Whole Year ,Mango,4004,18639
+MYSORE,2002,Whole Year ,Onion,5,17
+MYSORE,2002,Whole Year ,Other Fresh Fruits,380,2062
+MYSORE,2002,Whole Year ,Papaya,2,3
+MYSORE,2002,Whole Year ,Pome Fruit,50,289
+MYSORE,2002,Whole Year ,Potato,52,104
+MYSORE,2002,Whole Year ,Sugarcane,13048,1351120
+MYSORE,2002,Whole Year ,Tobacco,49790,29563
+MYSORE,2002,Whole Year ,Tomato,1785,20801
+MYSORE,2002,Whole Year ,Turmeric,428,2009
+MYSORE,2003,Kharif     ,Arhar/Tur,3601,2111
+MYSORE,2003,Kharif     ,Castor seed,1863,699
+MYSORE,2003,Kharif     ,Cotton(lint),42809,33251
+MYSORE,2003,Kharif     ,Dry ginger,386,5040
+MYSORE,2003,Kharif     ,Groundnut,4965,2933
+MYSORE,2003,Kharif     ,Horse-gram,14199,3575
+MYSORE,2003,Kharif     ,Jowar,10369,4631
+MYSORE,2003,Kharif     ,Maize,13108,39107
+MYSORE,2003,Kharif     ,Moong(Green Gram),4004,612
+MYSORE,2003,Kharif     ,Niger seed,3609,743
+MYSORE,2003,Kharif     ,Other Kharif pulses,24367,11493
+MYSORE,2003,Kharif     ,Ragi,61691,74870
+MYSORE,2003,Kharif     ,Rice,76564,228647
+MYSORE,2003,Kharif     ,Sesamum,4335,1783
+MYSORE,2003,Kharif     ,Sunflower,994,380
+MYSORE,2003,Kharif     ,Urad,5918,1321
+MYSORE,2003,Rabi       ,Gram,1143,416
+MYSORE,2003,Rabi       ,Groundnut,43,42
+MYSORE,2003,Rabi       ,Horse-gram,38006,6463
+MYSORE,2003,Rabi       ,Jowar,1499,567
+MYSORE,2003,Rabi       ,Maize,2051,2850
+MYSORE,2003,Rabi       ,Moong(Green Gram),590,173
+MYSORE,2003,Rabi       ,Other  Rabi pulses,4098,422
+MYSORE,2003,Rabi       ,Ragi,14384,3701
+MYSORE,2003,Rabi       ,Rice,2484,7363
+MYSORE,2003,Rabi       ,Sunflower,317,63
+MYSORE,2003,Rabi       ,Urad,463,244
+MYSORE,2003,Summer     ,Jowar,80,190
+MYSORE,2003,Summer     ,Maize,396,997
+MYSORE,2003,Summer     ,Ragi,619,736
+MYSORE,2003,Summer     ,Rice,2454,9449
+MYSORE,2003,Whole Year ,Arecanut,645,458
+MYSORE,2003,Whole Year ,Banana,2085,27931
+MYSORE,2003,Whole Year ,Beans & Mutter(Vegetable),422,2644
+MYSORE,2003,Whole Year ,Black pepper,25,64
+MYSORE,2003,Whole Year ,Brinjal,616,5707
+MYSORE,2003,Whole Year ,Citrus Fruit,4,63
+MYSORE,2003,Whole Year ,Coconut ,18005,48092
+MYSORE,2003,Whole Year ,Coriander,75,7
+MYSORE,2003,Whole Year ,Dry chillies,804,1931
+MYSORE,2003,Whole Year ,Mango,3538,10897
+MYSORE,2003,Whole Year ,Onion,5,13
+MYSORE,2003,Whole Year ,Other Fresh Fruits,322,1521
+MYSORE,2003,Whole Year ,Pome Fruit,38,210
+MYSORE,2003,Whole Year ,Potato,50,257
+MYSORE,2003,Whole Year ,Sugarcane,9849,1253778
+MYSORE,2003,Whole Year ,Tobacco,64147,32176
+MYSORE,2003,Whole Year ,Tomato,1638,14951
+MYSORE,2003,Whole Year ,Turmeric,566,4183
+MYSORE,2004,Kharif     ,Arhar/Tur,5345,3214
+MYSORE,2004,Kharif     ,Castor seed,2383,1564
+MYSORE,2004,Kharif     ,Cotton(lint),72962,83989
+MYSORE,2004,Kharif     ,Dry ginger,158,2063
+MYSORE,2004,Kharif     ,Groundnut,7168,5640
+MYSORE,2004,Kharif     ,Horse-gram,26453,8796
+MYSORE,2004,Kharif     ,Jowar,19079,32450
+MYSORE,2004,Kharif     ,Maize,14851,50799
+MYSORE,2004,Kharif     ,Moong(Green Gram),6683,2216
+MYSORE,2004,Kharif     ,Niger seed,3731,768
+MYSORE,2004,Kharif     ,Other Kharif pulses,37944,18310
+MYSORE,2004,Kharif     ,Ragi,58102,106653
+MYSORE,2004,Kharif     ,Rice,99284,312198.54
+MYSORE,2004,Kharif     ,Sesamum,11153,11252
+MYSORE,2004,Kharif     ,Soyabean,18,11
+MYSORE,2004,Kharif     ,Sunflower,1008,425
+MYSORE,2004,Kharif     ,Urad,6565,1185
+MYSORE,2004,Rabi       ,Gram,991,379
+MYSORE,2004,Rabi       ,Groundnut,735,669
+MYSORE,2004,Rabi       ,Horse-gram,32278,7973
+MYSORE,2004,Rabi       ,Jowar,739,369
+MYSORE,2004,Rabi       ,Maize,2861,8616
+MYSORE,2004,Rabi       ,Moong(Green Gram),462,113
+MYSORE,2004,Rabi       ,Other  Rabi pulses,6626,724
+MYSORE,2004,Rabi       ,Ragi,20819,15766
+MYSORE,2004,Rabi       ,Rice,48,162
+MYSORE,2004,Rabi       ,Sunflower,42,24
+MYSORE,2004,Rabi       ,Urad,577,199
+MYSORE,2004,Summer     ,Jowar,1,1
+MYSORE,2004,Summer     ,Maize,506,1548
+MYSORE,2004,Summer     ,Ragi,2446,3895
+MYSORE,2004,Summer     ,Rice,19148,84113
+MYSORE,2004,Summer     ,Sunflower,164,106
+MYSORE,2004,Whole Year ,Arecanut,676,480
+MYSORE,2004,Whole Year ,Banana,1570,34482
+MYSORE,2004,Whole Year ,Black pepper,28,72
+MYSORE,2004,Whole Year ,Coconut ,19404,523519.92
+MYSORE,2004,Whole Year ,Coriander,24,2
+MYSORE,2004,Whole Year ,Dry chillies,1391,2653
+MYSORE,2004,Whole Year ,Onion,5,29
+MYSORE,2004,Whole Year ,Potato,15,93
+MYSORE,2004,Whole Year ,Tobacco,59482,38821
+MYSORE,2004,Whole Year ,Turmeric,614,3450
+MYSORE,2005,Kharif     ,Arhar/Tur,4315,2513
+MYSORE,2005,Kharif     ,Castor seed,4735,2604
+MYSORE,2005,Kharif     ,Dry chillies,525,382
+MYSORE,2005,Kharif     ,Groundnut,14357,8771
+MYSORE,2005,Kharif     ,Horse-gram,24665,12114
+MYSORE,2005,Kharif     ,Jowar,13295,17122
+MYSORE,2005,Kharif     ,Maize,19445,77852
+MYSORE,2005,Kharif     ,Moong(Green Gram),4415,986
+MYSORE,2005,Kharif     ,Niger seed,4914,1012
+MYSORE,2005,Kharif     ,Onion,20,111
+MYSORE,2005,Kharif     ,Other Kharif pulses,37545,16765
+MYSORE,2005,Kharif     ,Peas & beans (Pulses),90,550
+MYSORE,2005,Kharif     ,Potato,10,33
+MYSORE,2005,Kharif     ,Ragi,78192,171342
+MYSORE,2005,Kharif     ,Rice,99671,294884
+MYSORE,2005,Kharif     ,Sesamum,8410,11713
+MYSORE,2005,Kharif     ,Soyabean,11,6
+MYSORE,2005,Kharif     ,Sunflower,1970,696
+MYSORE,2005,Kharif     ,Urad,4123,1034
+MYSORE,2005,Rabi       ,Dry chillies,127,470
+MYSORE,2005,Rabi       ,Gram,1321,722
+MYSORE,2005,Rabi       ,Groundnut,180,152
+MYSORE,2005,Rabi       ,Horse-gram,36747,12358
+MYSORE,2005,Rabi       ,Jowar,380,220
+MYSORE,2005,Rabi       ,Maize,1545,5173
+MYSORE,2005,Rabi       ,Moong(Green Gram),465,137
+MYSORE,2005,Rabi       ,Other  Rabi pulses,9140,1056
+MYSORE,2005,Rabi       ,Peas & beans (Pulses),7,49
+MYSORE,2005,Rabi       ,Ragi,20603,49286
+MYSORE,2005,Rabi       ,Rapeseed &Mustard,25,7
+MYSORE,2005,Rabi       ,Rice,35,78
+MYSORE,2005,Rabi       ,Sunflower,42,21
+MYSORE,2005,Rabi       ,Urad,518,248
+MYSORE,2005,Summer     ,Dry chillies,228,1178
+MYSORE,2005,Summer     ,Jowar,412,587
+MYSORE,2005,Summer     ,Maize,516,1716
+MYSORE,2005,Summer     ,Peas & beans (Pulses),22,111
+MYSORE,2005,Summer     ,Ragi,2114,4617
+MYSORE,2005,Summer     ,Rice,21147,64086
+MYSORE,2005,Summer     ,Sunflower,23,18
+MYSORE,2005,Whole Year ,Arecanut,556,1950
+MYSORE,2005,Whole Year ,Banana,2337,44669
+MYSORE,2005,Whole Year ,Black pepper,25,64
+MYSORE,2005,Whole Year ,Coconut ,13158,35145
+MYSORE,2005,Whole Year ,Coriander,25,2
+MYSORE,2005,Whole Year ,Cotton(lint),46606,78651
+MYSORE,2005,Whole Year ,Dry ginger,135,1763
+MYSORE,2005,Whole Year ,Sugarcane,8744,988509
+MYSORE,2005,Whole Year ,Tobacco,69104,35779
+MYSORE,2005,Whole Year ,Turmeric,535,2588
+MYSORE,2006,Kharif     ,Arhar/Tur,5591,5025
+MYSORE,2006,Kharif     ,Castor seed,3904,2618
+MYSORE,2006,Kharif     ,Gram,5836,1547
+MYSORE,2006,Kharif     ,Groundnut,9204,3747
+MYSORE,2006,Kharif     ,Horse-gram,25447,7446
+MYSORE,2006,Kharif     ,Jowar,14845,21862
+MYSORE,2006,Kharif     ,Maize,23868,94829
+MYSORE,2006,Kharif     ,Moong(Green Gram),4923,1239
+MYSORE,2006,Kharif     ,Niger seed,2836,584
+MYSORE,2006,Kharif     ,Other Kharif pulses,31048,22195
+MYSORE,2006,Kharif     ,Ragi,48661,78258
+MYSORE,2006,Kharif     ,Rice,100912,276379
+MYSORE,2006,Kharif     ,Sesamum,14032,13997
+MYSORE,2006,Kharif     ,Soyabean,23,17
+MYSORE,2006,Kharif     ,Sunflower,2303,692
+MYSORE,2006,Kharif     ,Urad,5836,1547
+MYSORE,2006,Rabi       ,Gram,2373,983
+MYSORE,2006,Rabi       ,Groundnut,172,131
+MYSORE,2006,Rabi       ,Horse-gram,37818,13545
+MYSORE,2006,Rabi       ,Jowar,430,218
+MYSORE,2006,Rabi       ,Maize,2462,7439
+MYSORE,2006,Rabi       ,Moong(Green Gram),357,108
+MYSORE,2006,Rabi       ,Other  Rabi pulses,11529,2937
+MYSORE,2006,Rabi       ,Ragi,18181,24358
+MYSORE,2006,Rabi       ,Rice,202,465
+MYSORE,2006,Rabi       ,Sunflower,12,4
+MYSORE,2006,Rabi       ,Urad,458,241
+MYSORE,2006,Summer     ,Jowar,10,15
+MYSORE,2006,Summer     ,Maize,374,1198
+MYSORE,2006,Summer     ,Ragi,739,1406
+MYSORE,2006,Summer     ,Rice,13280,40624
+MYSORE,2006,Summer     ,Sunflower,5,4
+MYSORE,2006,Whole Year ,Arecanut,1026,728
+MYSORE,2006,Whole Year ,Banana,2027,44570
+MYSORE,2006,Whole Year ,Black pepper,26,66
+MYSORE,2006,Whole Year ,Coconut ,18462,49312
+MYSORE,2006,Whole Year ,Coriander,42,4
+MYSORE,2006,Whole Year ,Cotton(lint),55070,50468
+MYSORE,2006,Whole Year ,Dry chillies,1077,2513
+MYSORE,2006,Whole Year ,Dry ginger,1080,14103
+MYSORE,2006,Whole Year ,Onion,5,28
+MYSORE,2006,Whole Year ,Potato,186,1190
+MYSORE,2006,Whole Year ,Sugarcane,11178,1592865
+MYSORE,2006,Whole Year ,Tapioca,15,126
+MYSORE,2006,Whole Year ,Tobacco,71231,25444
+MYSORE,2006,Whole Year ,Turmeric,665,3272
+MYSORE,2007,Kharif     ,Arhar/Tur,3194,1420
+MYSORE,2007,Kharif     ,Castor seed,3856,1989
+MYSORE,2007,Kharif     ,Dry chillies,530,477
+MYSORE,2007,Kharif     ,Groundnut,9744,6569
+MYSORE,2007,Kharif     ,Horse-gram,20757,7592
+MYSORE,2007,Kharif     ,Jowar,11724,13363
+MYSORE,2007,Kharif     ,Maize,25387,87986
+MYSORE,2007,Kharif     ,Moong(Green Gram),3564,1087
+MYSORE,2007,Kharif     ,Niger seed,6482,3401
+MYSORE,2007,Kharif     ,Onion,7,42
+MYSORE,2007,Kharif     ,Other Kharif pulses,42327,23980
+MYSORE,2007,Kharif     ,Potato,190,627
+MYSORE,2007,Kharif     ,Ragi,64082,108905
+MYSORE,2007,Kharif     ,Rice,105745,315901
+MYSORE,2007,Kharif     ,Sesamum,8518,5810
+MYSORE,2007,Kharif     ,Soyabean,52,42
+MYSORE,2007,Kharif     ,Sunflower,1877,888
+MYSORE,2007,Kharif     ,Urad,5835,1358
+MYSORE,2007,Rabi       ,Dry chillies,197,344
+MYSORE,2007,Rabi       ,Gram,1549,1842
+MYSORE,2007,Rabi       ,Groundnut,271,238
+MYSORE,2007,Rabi       ,Horse-gram,31809,12359
+MYSORE,2007,Rabi       ,Jowar,179,82
+MYSORE,2007,Rabi       ,Maize,3105,8409
+MYSORE,2007,Rabi       ,Moong(Green Gram),515,168
+MYSORE,2007,Rabi       ,Other  Rabi pulses,13471,3688
+MYSORE,2007,Rabi       ,Ragi,15858,31549
+MYSORE,2007,Rabi       ,Rice,200,435
+MYSORE,2007,Rabi       ,Sunflower,28,12
+MYSORE,2007,Rabi       ,Urad,503,195
+MYSORE,2007,Summer     ,Dry chillies,423,1432
+MYSORE,2007,Summer     ,Jowar,15,29
+MYSORE,2007,Summer     ,Maize,203,655
+MYSORE,2007,Summer     ,Ragi,660,1235
+MYSORE,2007,Summer     ,Rice,16841,53740
+MYSORE,2007,Whole Year ,Arecanut,911,3195
+MYSORE,2007,Whole Year ,Banana,2863,67366
+MYSORE,2007,Whole Year ,Black pepper,59,184
+MYSORE,2007,Whole Year ,Coconut ,22122,112636
+MYSORE,2007,Whole Year ,Coriander,26,9
+MYSORE,2007,Whole Year ,Cotton(lint),52439,35750
+MYSORE,2007,Whole Year ,Dry ginger,999,20502
+MYSORE,2007,Whole Year ,Sugarcane,10002,1178236
+MYSORE,2007,Whole Year ,Sweet potato,15,125
+MYSORE,2007,Whole Year ,Tobacco,82890,27482
+MYSORE,2007,Whole Year ,Turmeric,677,3905
+MYSORE,2008,Kharif     ,Arhar/Tur,3136,1335
+MYSORE,2008,Kharif     ,Castor seed,2527,883
+MYSORE,2008,Kharif     ,Dry chillies,629,584
+MYSORE,2008,Kharif     ,Groundnut,3761,2744
+MYSORE,2008,Kharif     ,Horse-gram,23592,8270
+MYSORE,2008,Kharif     ,Jowar,11519,10598
+MYSORE,2008,Kharif     ,Maize,22771,83658
+MYSORE,2008,Kharif     ,Moong(Green Gram),3583,1382
+MYSORE,2008,Kharif     ,Niger seed,3054,1046
+MYSORE,2008,Kharif     ,Onion,7,36
+MYSORE,2008,Kharif     ,Other Kharif pulses,34737,18422
+MYSORE,2008,Kharif     ,Potato,116,220
+MYSORE,2008,Kharif     ,Ragi,52888,103766
+MYSORE,2008,Kharif     ,Rice,110591,327791.72
+MYSORE,2008,Kharif     ,Sesamum,6534,4463
+MYSORE,2008,Kharif     ,Soyabean,17,12
+MYSORE,2008,Kharif     ,Sunflower,1845,1065
+MYSORE,2008,Kharif     ,Urad,3120,1286
+MYSORE,2008,Rabi       ,Dry chillies,133,225
+MYSORE,2008,Rabi       ,Gram,1197,655
+MYSORE,2008,Rabi       ,Groundnut,185,139
+MYSORE,2008,Rabi       ,Horse-gram,33177,10464
+MYSORE,2008,Rabi       ,Jowar,195,106
+MYSORE,2008,Rabi       ,Maize,3323,8461
+MYSORE,2008,Rabi       ,Moong(Green Gram),530,135
+MYSORE,2008,Rabi       ,Other  Rabi pulses,11750,3751
+MYSORE,2008,Rabi       ,Ragi,10319,18336
+MYSORE,2008,Rabi       ,Sunflower,5,1
+MYSORE,2008,Rabi       ,Urad,489,213
+MYSORE,2008,Summer     ,Dry chillies,455,1493
+MYSORE,2008,Summer     ,Jowar,75,171
+MYSORE,2008,Summer     ,Maize,322,1013
+MYSORE,2008,Summer     ,Ragi,559,830
+MYSORE,2008,Summer     ,Rice,13212,37629
+MYSORE,2008,Whole Year ,Arecanut,1109,3890
+MYSORE,2008,Whole Year ,Banana,3706,60286
+MYSORE,2008,Whole Year ,Black pepper,62,263
+MYSORE,2008,Whole Year ,Cashewnut,200,122.96
+MYSORE,2008,Whole Year ,Coconut ,21977,193857
+MYSORE,2008,Whole Year ,Coriander,63,34
+MYSORE,2008,Whole Year ,Cotton(lint),43629,34863
+MYSORE,2008,Whole Year ,Dry ginger,1714,65855
+MYSORE,2008,Whole Year ,Sugarcane,5588,637032
+MYSORE,2008,Whole Year ,Sweet potato,16,162
+MYSORE,2008,Whole Year ,Tapioca,110,906
+MYSORE,2008,Whole Year ,Tobacco,73995,21229
+MYSORE,2008,Whole Year ,Turmeric,1946,9356
+MYSORE,2009,Kharif     ,Arhar/Tur,3368,1766
+MYSORE,2009,Kharif     ,Castor seed,2755,906
+MYSORE,2009,Kharif     ,Gram,33250,25112
+MYSORE,2009,Kharif     ,Groundnut,5838,4330
+MYSORE,2009,Kharif     ,Horse-gram,33250,25112
+MYSORE,2009,Kharif     ,Jowar,12911,9880
+MYSORE,2009,Kharif     ,Maize,26496,85131
+MYSORE,2009,Kharif     ,Moong(Green Gram),7178,2346
+MYSORE,2009,Kharif     ,Niger seed,2819,1153
+MYSORE,2009,Kharif     ,Onion,10,35
+MYSORE,2009,Kharif     ,Other Kharif pulses,15798,19019
+MYSORE,2009,Kharif     ,Potato,116,718
+MYSORE,2009,Kharif     ,Ragi,52134,99941
+MYSORE,2009,Kharif     ,Rice,110196,341277.01
+MYSORE,2009,Kharif     ,Sesamum,10079,7095
+MYSORE,2009,Kharif     ,Sunflower,2313,1151
+MYSORE,2009,Kharif     ,Urad,8673,3419
+MYSORE,2009,Rabi       ,Dry chillies,232,692
+MYSORE,2009,Rabi       ,Gram,16153,8900
+MYSORE,2009,Rabi       ,Groundnut,17,13
+MYSORE,2009,Rabi       ,Horse-gram,16153,8900
+MYSORE,2009,Rabi       ,Jowar,325,229
+MYSORE,2009,Rabi       ,Maize,2643,6463
+MYSORE,2009,Rabi       ,Moong(Green Gram),145,38
+MYSORE,2009,Rabi       ,Other  Rabi pulses,12789,3918
+MYSORE,2009,Rabi       ,Ragi,11962,20148
+MYSORE,2009,Rabi       ,Sunflower,169,38
+MYSORE,2009,Rabi       ,Urad,207,81
+MYSORE,2009,Summer     ,Dry chillies,468,2155
+MYSORE,2009,Summer     ,Jowar,267,394
+MYSORE,2009,Summer     ,Maize,252,906
+MYSORE,2009,Summer     ,Ragi,552,802
+MYSORE,2009,Summer     ,Rice,13454,40747
+MYSORE,2009,Whole Year ,Arecanut,1066,3739
+MYSORE,2009,Whole Year ,Banana,4454,131054
+MYSORE,2009,Whole Year ,Black pepper,166,616
+MYSORE,2009,Whole Year ,Cashewnut,190,144
+MYSORE,2009,Whole Year ,Coconut ,22070,130899
+MYSORE,2009,Whole Year ,Coriander,61,30
+MYSORE,2009,Whole Year ,Cotton(lint),41255,54175
+MYSORE,2009,Whole Year ,Dry ginger,1801,65507
+MYSORE,2009,Whole Year ,Sugarcane,8435,897484
+MYSORE,2009,Whole Year ,Sweet potato,16,105
+MYSORE,2009,Whole Year ,Tapioca,115,965
+MYSORE,2009,Whole Year ,Tobacco,83050,58700
+MYSORE,2009,Whole Year ,Turmeric,1935,9896
+MYSORE,2010,Kharif     ,Arhar/Tur,4426,3561
+MYSORE,2010,Kharif     ,Castor seed,3643,2824
+MYSORE,2010,Kharif     ,Cotton(lint),38897,62164
+MYSORE,2010,Kharif     ,Cowpea(Lobia),24202,9910
+MYSORE,2010,Kharif     ,Dry chillies,923,760
+MYSORE,2010,Kharif     ,Groundnut,4220,3638
+MYSORE,2010,Kharif     ,Horse-gram,18331,10692
+MYSORE,2010,Kharif     ,Jowar,11629,14165
+MYSORE,2010,Kharif     ,Maize,25928,106277
+MYSORE,2010,Kharif     ,Moong(Green Gram),5901,3291
+MYSORE,2010,Kharif     ,Niger seed,2180,796
+MYSORE,2010,Kharif     ,Onion,15,94
+MYSORE,2010,Kharif     ,Other Kharif pulses,17056,9203
+MYSORE,2010,Kharif     ,Peas & beans (Pulses),257,2288
+MYSORE,2010,Kharif     ,Potato,103,782
+MYSORE,2010,Kharif     ,Ragi,42299,66557
+MYSORE,2010,Kharif     ,Rice,106382,337247
+MYSORE,2010,Kharif     ,Sesamum,10490,9099
+MYSORE,2010,Kharif     ,Sunflower,1987,1818
+MYSORE,2010,Kharif     ,Urad,7946,3835
+MYSORE,2010,Rabi       ,Cotton(lint),133,288
+MYSORE,2010,Rabi       ,Cowpea(Lobia),7576,2001
+MYSORE,2010,Rabi       ,Dry chillies,252,685
+MYSORE,2010,Rabi       ,Gram,759,861
+MYSORE,2010,Rabi       ,Groundnut,70,62
+MYSORE,2010,Rabi       ,Horse-gram,25775,16136
+MYSORE,2010,Rabi       ,Jowar,130,124
+MYSORE,2010,Rabi       ,Maize,4292,10860
+MYSORE,2010,Rabi       ,Moong(Green Gram),233,61
+MYSORE,2010,Rabi       ,Other  Rabi pulses,4488,1411
+MYSORE,2010,Rabi       ,Peas & beans (Pulses),105,971
+MYSORE,2010,Rabi       ,Ragi,11663,19310
+MYSORE,2010,Rabi       ,Sunflower,2,2
+MYSORE,2010,Rabi       ,Urad,299,140
+MYSORE,2010,Summer     ,Dry chillies,422,1284
+MYSORE,2010,Summer     ,Maize,205,697
+MYSORE,2010,Summer     ,Peas & beans (Pulses),59,505
+MYSORE,2010,Summer     ,Ragi,379,501
+MYSORE,2010,Summer     ,Rice,18712,56724
+MYSORE,2010,Whole Year ,Arecanut,1375,14868
+MYSORE,2010,Whole Year ,Banana,5468,142523
+MYSORE,2010,Whole Year ,Black pepper,63,38
+MYSORE,2010,Whole Year ,Cashewnut,184,135
+MYSORE,2010,Whole Year ,Coconut ,26195,324630
+MYSORE,2010,Whole Year ,Coriander,46,17
+MYSORE,2010,Whole Year ,Dry ginger,1692,5368.6
+MYSORE,2010,Whole Year ,Sugarcane,12303,1367478
+MYSORE,2010,Whole Year ,Tapioca,13,144
+MYSORE,2010,Whole Year ,Tobacco,88280,93343
+MYSORE,2010,Whole Year ,Turmeric,2081,14927
+MYSORE,2011,Kharif     ,Arhar/Tur,4439,2142
+MYSORE,2011,Kharif     ,Castor seed,2739,1520
+MYSORE,2011,Kharif     ,Cotton(lint),44335,100051
+MYSORE,2011,Kharif     ,Cowpea(Lobia),25791,11638
+MYSORE,2011,Kharif     ,Dry chillies,920,743
+MYSORE,2011,Kharif     ,Groundnut,4440,3051
+MYSORE,2011,Kharif     ,Horse-gram,11315,6514
+MYSORE,2011,Kharif     ,Jowar,9337,18323
+MYSORE,2011,Kharif     ,Maize,28414,77629
+MYSORE,2011,Kharif     ,Moong(Green Gram),6752,3316
+MYSORE,2011,Kharif     ,Niger seed,2017,751
+MYSORE,2011,Kharif     ,Onion,17,84
+MYSORE,2011,Kharif     ,Other Kharif pulses,12601,6967
+MYSORE,2011,Kharif     ,Peas & beans (Pulses),289,2210
+MYSORE,2011,Kharif     ,Potato,105,868
+MYSORE,2011,Kharif     ,Ragi,29873,51570
+MYSORE,2011,Kharif     ,Rice,107820,349693
+MYSORE,2011,Kharif     ,Sesamum,9580,6052
+MYSORE,2011,Kharif     ,Sunflower,1153,803
+MYSORE,2011,Kharif     ,Urad,10079,5027
+MYSORE,2011,Rabi       ,Cowpea(Lobia),8335,3159
+MYSORE,2011,Rabi       ,Dry chillies,335,790
+MYSORE,2011,Rabi       ,Gram,972,758
+MYSORE,2011,Rabi       ,Groundnut,129,129
+MYSORE,2011,Rabi       ,Horse-gram,25692,13766
+MYSORE,2011,Rabi       ,Maize,4602,13516
+MYSORE,2011,Rabi       ,Moong(Green Gram),166,56
+MYSORE,2011,Rabi       ,Other  Rabi pulses,6292,5894
+MYSORE,2011,Rabi       ,Peas & beans (Pulses),117,926
+MYSORE,2011,Rabi       ,Ragi,15363,23774
+MYSORE,2011,Rabi       ,Rice,4,9
+MYSORE,2011,Rabi       ,Urad,199,101
+MYSORE,2011,Summer     ,Dry chillies,339,1187
+MYSORE,2011,Summer     ,Maize,186,634
+MYSORE,2011,Summer     ,Peas & beans (Pulses),70,531
+MYSORE,2011,Summer     ,Ragi,166,207
+MYSORE,2011,Summer     ,Rice,13180,45113
+MYSORE,2011,Whole Year ,Arecanut,1424,11532
+MYSORE,2011,Whole Year ,Banana,5610,154656
+MYSORE,2011,Whole Year ,Black pepper,73,20.7
+MYSORE,2011,Whole Year ,Cashewnut,184,147
+MYSORE,2011,Whole Year ,Coconut ,26280,238760
+MYSORE,2011,Whole Year ,Coriander,19,8
+MYSORE,2011,Whole Year ,Dry ginger,2472,7782.4
+MYSORE,2011,Whole Year ,Garlic,5,6
+MYSORE,2011,Whole Year ,Sugarcane,11500,1190825
+MYSORE,2011,Whole Year ,Sweet potato,2,29
+MYSORE,2011,Whole Year ,Tapioca,23,243
+MYSORE,2011,Whole Year ,Tobacco,82234,72185
+MYSORE,2011,Whole Year ,Turmeric,3908,20372
+MYSORE,2012,Kharif     ,Arhar/Tur,4804,3551
+MYSORE,2012,Kharif     ,Castor seed,2473,1238
+MYSORE,2012,Kharif     ,Cotton(lint),44424,50145
+MYSORE,2012,Kharif     ,Cowpea(Lobia),26432,4846
+MYSORE,2012,Kharif     ,Dry chillies,1330,1219
+MYSORE,2012,Kharif     ,Groundnut,4164,1903
+MYSORE,2012,Kharif     ,Horse-gram,1839,416
+MYSORE,2012,Kharif     ,Jowar,7795,1126
+MYSORE,2012,Kharif     ,Maize,33510,61982
+MYSORE,2012,Kharif     ,Moong(Green Gram),8656,765
+MYSORE,2012,Kharif     ,Niger seed,644,240
+MYSORE,2012,Kharif     ,Onion,16,85
+MYSORE,2012,Kharif     ,Other Kharif pulses,15394,6405
+MYSORE,2012,Kharif     ,Potato,139,888
+MYSORE,2012,Kharif     ,Ragi,21283,18965
+MYSORE,2012,Kharif     ,Rice,87894,276550
+MYSORE,2012,Kharif     ,Sesamum,6001,1357
+MYSORE,2012,Kharif     ,Sunflower,1255,407
+MYSORE,2012,Kharif     ,Urad,12067,1559
+MYSORE,2012,Rabi       ,Cowpea(Lobia),1770,668
+MYSORE,2012,Rabi       ,Dry chillies,339,926
+MYSORE,2012,Rabi       ,Gram,534,172
+MYSORE,2012,Rabi       ,Groundnut,16,27
+MYSORE,2012,Rabi       ,Horse-gram,31602,11558
+MYSORE,2012,Rabi       ,Jowar,1086,205
+MYSORE,2012,Rabi       ,Maize,6454,19810
+MYSORE,2012,Rabi       ,Other  Rabi pulses,1343,615
+MYSORE,2012,Rabi       ,Ragi,11862,20960
+MYSORE,2012,Rabi       ,Rice,240,579
+MYSORE,2012,Summer     ,Cotton(lint),67,186
+MYSORE,2012,Summer     ,Cowpea(Lobia),187,78
+MYSORE,2012,Summer     ,Dry chillies,98,277
+MYSORE,2012,Summer     ,Maize,114,392
+MYSORE,2012,Summer     ,Ragi,172,153
+MYSORE,2012,Summer     ,Rice,901,2709
+MYSORE,2012,Whole Year ,Arecanut,1527,12256
+MYSORE,2012,Whole Year ,Black pepper,46,130
+MYSORE,2012,Whole Year ,Cashewnut,219,176
+MYSORE,2012,Whole Year ,Coconut ,21605,196286
+MYSORE,2012,Whole Year ,Coriander,34,13
+MYSORE,2012,Whole Year ,Dry ginger,2172,68379
+MYSORE,2012,Whole Year ,Sugarcane,6545,547162
+MYSORE,2012,Whole Year ,Sweet potato,16,248
+MYSORE,2012,Whole Year ,Tapioca,33,349
+MYSORE,2012,Whole Year ,Tobacco,75310,35558
+MYSORE,2012,Whole Year ,Turmeric,3540,21884
+MYSORE,2013,Kharif     ,Arhar/Tur,3763,2291
+MYSORE,2013,Kharif     ,Bajra,4,5
+MYSORE,2013,Kharif     ,Castor seed,2044,748
+MYSORE,2013,Kharif     ,Cotton(lint),46165,136724
+MYSORE,2013,Kharif     ,Cowpea(Lobia),25712,11578
+MYSORE,2013,Kharif     ,Dry chillies,879,975
+MYSORE,2013,Kharif     ,Groundnut,2532,1710
+MYSORE,2013,Kharif     ,Horse-gram,1065,295
+MYSORE,2013,Kharif     ,Jowar,5463,7058
+MYSORE,2013,Kharif     ,Maize,30416,92060
+MYSORE,2013,Kharif     ,Moong(Green Gram),5751,1961
+MYSORE,2013,Kharif     ,Niger seed,1572,585
+MYSORE,2013,Kharif     ,Onion,2,13
+MYSORE,2013,Kharif     ,Other Kharif pulses,10116,4930
+MYSORE,2013,Kharif     ,Potato,119,783
+MYSORE,2013,Kharif     ,Ragi,27007,46875
+MYSORE,2013,Kharif     ,Rice,91737,311039
+MYSORE,2013,Kharif     ,Sesamum,5907,3457
+MYSORE,2013,Kharif     ,Small millets,3,1
+MYSORE,2013,Kharif     ,Sunflower,1016,647
+MYSORE,2013,Kharif     ,Urad,7969,3225
+MYSORE,2013,Rabi       ,Cowpea(Lobia),5729,2259
+MYSORE,2013,Rabi       ,Dry chillies,221,419
+MYSORE,2013,Rabi       ,Gram,786,421
+MYSORE,2013,Rabi       ,Horse-gram,27203,12430
+MYSORE,2013,Rabi       ,Jowar,390,231
+MYSORE,2013,Rabi       ,Maize,4167,12874
+MYSORE,2013,Rabi       ,Moong(Green Gram),53,13
+MYSORE,2013,Rabi       ,Other  Rabi pulses,3953,3151
+MYSORE,2013,Rabi       ,Ragi,9290,13609
+MYSORE,2013,Rabi       ,Rice,50,125
+MYSORE,2013,Rabi       ,Urad,107,61
+MYSORE,2013,Summer     ,Cotton(lint),10,36
+MYSORE,2013,Summer     ,Cowpea(Lobia),160,63
+MYSORE,2013,Summer     ,Dry chillies,309,821
+MYSORE,2013,Summer     ,Groundnut,49,44
+MYSORE,2013,Summer     ,Jowar,1,2
+MYSORE,2013,Summer     ,Maize,880,2855
+MYSORE,2013,Summer     ,Onion,2,16
+MYSORE,2013,Summer     ,Ragi,540,1030
+MYSORE,2013,Summer     ,Rice,10661,39236
+MYSORE,2013,Whole Year ,Arecanut,1617,18011
+MYSORE,2013,Whole Year ,Black pepper,21,52
+MYSORE,2013,Whole Year ,Cashewnut,127,113
+MYSORE,2013,Whole Year ,Coconut ,22417,177853
+MYSORE,2013,Whole Year ,Coriander,51,16
+MYSORE,2013,Whole Year ,Dry ginger,2567,82771
+MYSORE,2013,Whole Year ,Sugarcane,7995,683572
+MYSORE,2013,Whole Year ,Sweet potato,2,29
+MYSORE,2013,Whole Year ,Tapioca,2,17
+MYSORE,2013,Whole Year ,Tobacco,84544,61282
+MYSORE,2013,Whole Year ,Turmeric,3340,21870
+MYSORE,2014,Kharif     ,Arhar/Tur,2697,1617
+MYSORE,2014,Kharif     ,Castor seed,1125,679
+MYSORE,2014,Kharif     ,Cotton(lint),48174,85874
+MYSORE,2014,Kharif     ,Cowpea(Lobia),22587,8948
+MYSORE,2014,Kharif     ,Dry chillies,1061,1200
+MYSORE,2014,Kharif     ,Groundnut,2567,1853
+MYSORE,2014,Kharif     ,Jowar,5459,8038
+MYSORE,2014,Kharif     ,Maize,30195,101259
+MYSORE,2014,Kharif     ,Moong(Green Gram),7912,2247
+MYSORE,2014,Kharif     ,Niger seed,1864,493
+MYSORE,2014,Kharif     ,Other Kharif pulses,11389,6091
+MYSORE,2014,Kharif     ,Potato,200,1231
+MYSORE,2014,Kharif     ,Ragi,26942,60430
+MYSORE,2014,Kharif     ,Rice,94359,319929
+MYSORE,2014,Kharif     ,Sesamum,4460,2669
+MYSORE,2014,Kharif     ,Sunflower,696,827
+MYSORE,2014,Kharif     ,Urad,10082,3007
+MYSORE,2014,Rabi       ,Cowpea(Lobia),4096,1331
+MYSORE,2014,Rabi       ,Dry chillies,286,537
+MYSORE,2014,Rabi       ,Gram,2240,1551
+MYSORE,2014,Rabi       ,Horse-gram,34171,14965
+MYSORE,2014,Rabi       ,Jowar,308,157
+MYSORE,2014,Rabi       ,Linseed,11,3
+MYSORE,2014,Rabi       ,Maize,6266,22704
+MYSORE,2014,Rabi       ,Moong(Green Gram),77,25
+MYSORE,2014,Rabi       ,Onion,5,33
+MYSORE,2014,Rabi       ,Other  Rabi pulses,3614,2764
+MYSORE,2014,Rabi       ,Potato,31,478
+MYSORE,2014,Rabi       ,Ragi,12834,22361
+MYSORE,2014,Rabi       ,Urad,707,322
+MYSORE,2014,Summer     ,Cowpea(Lobia),211,77
+MYSORE,2014,Summer     ,Dry chillies,270,520
+MYSORE,2014,Summer     ,Maize,238,776
+MYSORE,2014,Summer     ,Potato,1,14
+MYSORE,2014,Summer     ,Ragi,356,676
+MYSORE,2014,Summer     ,Rice,8864,30349
+MYSORE,2014,Whole Year ,Arecanut,1786,16525
+MYSORE,2014,Whole Year ,Black pepper,52,305
+MYSORE,2014,Whole Year ,Cashewnut,39,29
+MYSORE,2014,Whole Year ,Coconut ,22352,197674
+MYSORE,2014,Whole Year ,Coriander,9,3
+MYSORE,2014,Whole Year ,Dry ginger,3468,110622
+MYSORE,2014,Whole Year ,Garlic,101,111
+MYSORE,2014,Whole Year ,Mesta,48,54
+MYSORE,2014,Whole Year ,Sugarcane,4104,374285
+MYSORE,2014,Whole Year ,Sweet potato,28,475
+MYSORE,2014,Whole Year ,Tapioca,3,27
+MYSORE,2014,Whole Year ,Tobacco,72647,44721
+MYSORE,2014,Whole Year ,Turmeric,3382,23234
